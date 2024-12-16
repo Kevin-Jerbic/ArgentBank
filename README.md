@@ -5,6 +5,14 @@ Cloner ce repo
 -   npm i
 -   npm run dev
 
+# Back
+
+[Clonez l'API](https://github.com/OpenClassrooms-Student-Center/Project-10-Bank-API)
+
+-   npm i
+-   npm run dev:server
+-   npm run populate-db
+
 ![index](https://github.com/user-attachments/assets/8b64dba5-791e-429b-a737-21c4ff9ff043)
 
 ![login](https://github.com/user-attachments/assets/22a7a7b0-adf1-4b0b-8754-8127ee72ec72)
